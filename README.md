@@ -33,4 +33,4 @@
 
   
   
-![Snake animation](https://github.com/Breno-Cardozo/Breno-Cardozo)
+![Snake animation](https://github.com/Breno-Cardozo/Breno-Cardozo/blob/output/github-contribution-grid-snake.svg)
