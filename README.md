@@ -1,7 +1,7 @@
 ## Olá! Seja bem vindo ao meu perfil do GitHub 🧠
 
 
-- 👻 Meu nome é Breno Cardozo Fagundes eu tenho 17 anos e estou no 3º ano do Ensino Médio;
+- 👻 Meu nome é Breno Cardozo Fagundes eu tenho 18 anos e estou no 3º ano do Ensino Médio;
 - ⌛ Atualmente eu curso o ensino médio com o Novotec Integrado de Informática para Internet na Etec Maria Cristina Medeiros;
 - 🖋️ Tenho um domínio avançado da língua inglesa;
 - 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: HTML, CSS, JavaScript, PHP, Python e MySql;
