@@ -29,6 +29,3 @@
     <a href="tel:11995868505" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
 
-  <hr>
-  
-![Snake animation](https://github.com/Breno-Cardozo/Breno-Cardozo/blob/output/github-contribution-grid-snake.svg)
