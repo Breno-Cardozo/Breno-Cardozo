@@ -1,10 +1,10 @@
 ## Olá! Seja bem vindo ao meu perfil do GitHub 🧠
 
 
-- 👻 Meu nome é Breno Cardozo Fagundes eu tenho 18 anos e estou no 3º ano do Ensino Médio;
-- ⌛ Atualmente eu curso o ensino médio com o Novotec Integrado de Informática para Internet na Etec Maria Cristina Medeiros;
+- 👻 Meu nome é Breno Cardozo Fagundes eu tenho 19 anos;
+- ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;
 - 🖋️ Tenho um domínio avançado da língua inglesa;
-- 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: HTML, CSS, JavaScript, PHP, Python e MySql;
+- 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, C#, Python e MySql;
 - 💵 Como me contratar: breno_cardozogarcia@hotmail.com
 
 <div>
@@ -15,11 +15,10 @@
   
   <div style="display: inline_block"><br>
     <img align="center" hegiht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" hegiht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" hegiht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
     <img align="center" hegiht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" hegiht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" hegiht="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    
     
   </div>
   <hr>
