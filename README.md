@@ -1,7 +1,7 @@
 <h2 align="center">Olá, o meu nome é Breno Cardozo! Seja bem-vindo ao meu perfil no GitHub!</h2>
 
 
-<p align='left'>• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>• 🖋️ Tenho um domínio avançado da língua inglesa;<br>• 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, C#, Python e MySql;</p>
+<p align='center'>• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>• 🖋️ Tenho um domínio avançado da língua inglesa;<br>• 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, C#, Python e MySql;</p>
 <br>
 
 <div align="center">
