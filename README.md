@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>•  🖋️ Tenho um domínio avançado da língua inglesa;<br>•  📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, C#, Python e MySql;</h5>
+<h4 align="left">• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>•  🖋️ Tenho um domínio avançado da língua inglesa;<br>•  📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, C#, Python e MySql;</h4>
 
 ###
 
