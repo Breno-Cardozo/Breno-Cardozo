@@ -49,7 +49,7 @@
   <a href="https://www.instagram.com/brenocardozof/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
-  <a href="breno_cardozogarcia@hotmail.com" target="_blank">
+  <a href="mailto:breno_cardozogarcia@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="microsoft-outlook logo"  />
   </a>
 </div>
