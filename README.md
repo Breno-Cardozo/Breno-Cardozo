@@ -58,7 +58,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-Cardozo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Breno-Cardozo&locale=pt-br&mode=daily&theme=algolia&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
