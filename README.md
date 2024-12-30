@@ -1,10 +1,10 @@
-<h2 align="center">Olá, o meu nome é Breno Cardozo! Seja bem-vindo ao meu perfil no GitHub!</h2>
+<h2 align="left">Olá, o meu nome é Breno Cardozo! Seja bem-vindo ao meu perfil no GitHub!</h2>
 
 
-<p align='center'>• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>• 🖋️ Tenho um domínio avançado da língua inglesa;<br>• 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, TypeScript, C#, Python e SQL;</p>
+<p align='left'>• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>• 🖋️ Tenho um domínio avançado da língua inglesa;<br>• 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, TypeScript, C#, Python e SQL;</p>
 <br>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
@@ -42,7 +42,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/brenocardozo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   </a>
@@ -56,7 +56,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-Cardozo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
