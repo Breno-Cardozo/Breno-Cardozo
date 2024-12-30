@@ -4,7 +4,7 @@
 <p align='left'>• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>• 🖋️ Tenho um domínio avançado da língua inglesa;<br>• 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, TypeScript, C#, Python e SQL;</p>
 <br>
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="javascript logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
