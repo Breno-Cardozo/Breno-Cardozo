@@ -52,6 +52,10 @@
   <a href="mailto:breno_cardozogarcia@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="microsoft-outlook logo"  />
   </a>
+  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/BrenoCardozoFagundes-6932/A9A5470B41334279?sharingId=748151253A026C5C" target="_blank">
+    <img src="![image](https://github.com/user-attachments/assets/c46bfcd7-7e6e-42e4-b373-d55799c6fc80)
+" height="32" alt="AZ-204"  />
+  </a>
 </div>
 
 ###
