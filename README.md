@@ -1,4 +1,6 @@
-<h2 align="left">Olá, o meu nome é Breno Cardozo! Seja bem-vindo ao meu perfil no GitHub!</h2>
+<h2 align="left">Olá, o meu nome é Breno Cardozo! Seja bem-vindo ao meu perfil no GitHub!</h2><a href="https://learn.microsoft.com/api/credentials/share/pt-br/BrenoCardozoFagundes-6932/A9A5470B41334279?sharingId=748151253A026C5C" target="_blank">
+    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="32" alt="AZ-204"  />
+  </a>
 
 
 <p align='left'>• 👻 Meu nome é Breno Cardozo Fagundes e eu tenho 19 anos;<br>• ⌛ Atualmente eu curso o ciência da computação na Faculdade Impacta de Tecnologia;<br>• 🖋️ Tenho um domínio avançado da língua inglesa;<br>• 📚 Linguagens que eu estou desenvolvendo o meu conhecimento: React, Dart, JavaScript, TypeScript, C#, Python e SQL;</p>
@@ -51,9 +53,6 @@
   </a>
   <a href="mailto:breno_cardozogarcia@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://learn.microsoft.com/api/credentials/share/pt-br/BrenoCardozoFagundes-6932/A9A5470B41334279?sharingId=748151253A026C5C" target="_blank">
-    <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="32" alt="AZ-204"  />
   </a>
 </div>
 
