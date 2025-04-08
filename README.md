@@ -1,4 +1,4 @@
-<div>
+<div style='display:flex'>
 <h2 align="left">Olá, o meu nome é Breno Cardozo! Seja bem-vindo ao meu perfil no GitHub!</h2>
 <a href="https://learn.microsoft.com/api/credentials/share/pt-br/BrenoCardozoFagundes-6932/A9A5470B41334279?sharingId=748151253A026C5C" target="_blank">
     <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="32" alt="AZ-204"  />
